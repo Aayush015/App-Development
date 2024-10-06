@@ -4,14 +4,14 @@ Welcome to my **App Development** folder, where I showcase various projects deve
 
 ## Projects Overview
 
-### Project 1: Personal Finance Tracker
+### Project 1: Pomodoro Timer
 - **Description:** A web application designed to help users track their income and expenses. It provides visual insights into spending habits, budget management, and savings goals.
-- **Technologies Used:** Python, Flask, SQLite, HTML, CSS, JavaScript, Bootstrap, Chart.js.
+- **Technologies Used:** React Native, JavaScript, Expo, Redux, Node.js, SQLite, HTML, CSS, REST APIs.
 - **Features:**
-  - User authentication for secure access to personal data.
-  - Dashboard displaying income, expenses, and savings trends.
-  - Ability to add, edit, and delete transactions.
-  - Visual representations of financial data through charts.
+   - Customizable timer settings for work sessions and breaks.
+   - Notification alerts to remind users when to switch tasks.
+   - User-friendly interface designed for mobile devices.
+   - Ability to track completed sessions and visualize productivity trends.
 
 ### Project 2: Movie Browser
 - **Description:** A web-based application that allows users to browse and search for movies. Users can view details, ratings, and trailers for each movie.
