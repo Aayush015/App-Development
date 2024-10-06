@@ -1,58 +1,31 @@
-# Movie Browser
+# App Development
 
-Welcome to the **Movie Browser** application! This mobile app allows users to search for movies from the Open Movie Database (OMDb) API and view additional information about selected movies. Built using React Native, this app offers a clean and intuitive interface for movie enthusiasts.
+Welcome to my **App Development** folder, where I showcase various projects developed as part of CS50's course on app development. Each project demonstrates my skills in building applications and solving problems using different programming languages and frameworks.
 
-## Table of Contents
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [API Key](#api-key)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+## Projects Overview
 
-## Features
-- **Search Movies**: Users can search for movies by title.
-- **View Details**: Click on a movie to view additional information such as genre, director, and plot.
-- **Responsive Design**: The application is designed to work seamlessly on both iOS and Android devices.
-- **Error Handling**: Provides feedback if no results are found or if the API key is invalid.
+### Project 1: Personal Finance Tracker
+- **Description:** A web application designed to help users track their income and expenses. It provides visual insights into spending habits, budget management, and savings goals.
+- **Technologies Used:** Python, Flask, SQLite, HTML, CSS, JavaScript, Bootstrap, Chart.js.
+- **Features:**
+  - User authentication for secure access to personal data.
+  - Dashboard displaying income, expenses, and savings trends.
+  - Ability to add, edit, and delete transactions.
+  - Visual representations of financial data through charts.
 
-## Screenshots
+### Project 2: Movie Browser
+- **Description:** A web-based application that allows users to browse and search for movies. Users can view details, ratings, and trailers for each movie.
+- **Technologies Used:** HTML, CSS, JavaScript, Bootstrap, APIs (e.g., The Movie Database API).
+- **Features:**
+  - Search functionality to find movies by title.
+  - Display of movie details, including ratings and trailers.
+  - User-friendly interface for easy navigation.
 
-Here are some screenshots of the app:
-
-| Home Screen | Search Screen | Movie Details Screen |
-|-------------|---------------|----------------------|
-| ![Home Screen](pictures/home.png) | ![Search Screen](pictures/search.png) | ![Movie Details](pictures/movie_details.png) |
-
-## Dependencies
-
-The project uses the following libraries:
-- **expo**: A framework for building React Native applications.
-- **react**: A JavaScript library for building user interfaces.
-- **react-native**: A framework for building native apps using React.
-- **prop-types**: Runtime type checking for React props.
-- **react-navigation**: A library for routing and navigation in React Native apps.
-- **react-native-vector-icons**: A library for including icons in your React Native app.
-
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/movie-browser.git
-
-2. **Navigate to project**: 
-   ```bash
-   cd movie-browser
-
-3. ***Install dependencies***:
-   ```bash
-   npm install
-
-4. ***Start***:
-   ```bash
-   npm start
-
-## API key 
-To run this project, please get your own API key and paste it to screens/MovieDetailsScreen.js and screens/SearchScreen.js
+### Project 3: Weather Application
+- **Description:** A weather forecasting application that provides real-time weather information and forecasts for any location in the world.
+- **Technologies Used:** HTML, CSS, JavaScript, React, Axios, OpenWeatherMap API.
+- **Features:**
+  - Search for weather conditions by city or geographic coordinates.
+  - Displays current temperature, humidity, wind speed, and forecasts.
+  - Responsive design for mobile and desktop users.
+  - Option to switch between Celsius and Fahrenheit.
