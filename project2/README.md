@@ -8,9 +8,6 @@ Welcome to the **Movie Browser** application! This mobile app allows users to se
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [API Key](#api-key)
-- [Usage](#usage)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 - **Search Movies**: Users can search for movies by title.
